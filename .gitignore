@@ -1,0 +1,10 @@
+# Public repo — strict allowlist. Everything ignored unless explicitly unignored below.
+
+*
+
+!README.md
+!LICENSE
+!.gitignore
+!vibe-manager.md
+!diagrams
+!diagrams/**
