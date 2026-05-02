@@ -1,5 +1,7 @@
 # vibe-manager
 
+![vibe-manager](diagrams/vibe-manager.png)
+
 A Claude skill that turns a one-line project idea into a complete, executable plan for [Claude Code](https://docs.claude.com/en/docs/claude-code) and [Claude Design](https://claude.ai/design).
 
 ## What it does
